@@ -1,0 +1,143 @@
+body{
+    margin: 0%;
+}
+.cabecalho{
+    background-image: url(img/fundo.png);
+    color: white;
+    height: 233px;
+    
+    
+}
+.menu a{
+    color: white;
+    text-decoration: none;
+    padding: 2%;
+    
+}
+
+a:hover{
+    background-color: #2E2EFE;
+}
+
+.ultimas_noticias a:hover {
+    background-color: transparent;
+}
+
+
+.menu{
+    background-color: #FF0040;
+    border: 1px solid #B40431;
+    width: 40%;
+    padding: 0.8%;
+    margin-left: 20%;
+    margin-top: 1%;
+}
+
+.logo{
+    margin-left: 20%;
+    padding-top: 2%;
+}
+
+/*conteudo*/
+
+.corpo{
+    background-image: url(img/fundo-caixa.png);
+    width: 80%;
+    margin-left: 8%;
+    /*border: 1px solid red;*/
+    padding: 1%;
+    float: left;
+    
+}
+
+.coluna_1{
+    width: 18%;
+    margin-right: 2%;
+    /*border: 1px solid;*/
+    float: left;
+    margin-right: 3%;
+    
+}
+
+.coluna_1 a{
+    text-decoration: none;
+    display: block;
+    width: 90%;
+    padding: 2%;
+    color: black;
+    margin: 2%;
+    
+}
+
+.news{
+    margin-top: 10%;
+}
+
+.red{
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 2%;
+}
+
+.email{
+    margin-bottom: 4%;
+    width: 90%;
+}
+
+.tiulo_copo{
+    color: white;
+    
+    padding: 1%;
+    background-color: #2E2EFE;
+}
+
+.coluna_2{
+    /*border: 1px solid;*/
+    width: 38%;
+    float: left;
+    
+    
+}
+
+.coluna_2 img {
+    width: 100%;
+    
+}
+
+.sub_titulo{
+    background-color: red;
+    padding: 0.3%;
+    color: black;
+}
+
+.coluna_3 {
+    margin-left: 1%;
+    float: right;
+}
+
+
+.noticia_1 img{
+    width: 20%;
+    float: left;
+}
+
+.texto{
+    margin-left: 23%
+}
+
+.noticia_1 p {
+    margin-top: -5%;
+}
+
+.rodape{
+    float: block;
+}
+
+.entrevista a:hover{
+    background-image: url(img/marcador.png) left;
+}
+
+
+
+
